@@ -1,0 +1,19 @@
+# StudentHub
+
+StudentHub is a web-based student registration and management system built using Node.js. It enables students to register, submit details, and securely store data in a database. The platform provides an intuitive interface for managing student records and streamlining the enrollment process.
+
+## Technologies Used
+- Node.js
+- Express.js
+- HTML
+- CSS
+- JavaScript
+
+## Features
+- Student Registration
+- Secure Data Storage
+- Student Record Management
+- User-Friendly Interface
+
+## Author
+Kiruba Sree
